@@ -7,7 +7,7 @@
 - ⚡ I am an **all-around programmer** who is constantly exploring and moving forward.
 - 👯 I’m looking to collaborate on **exciting projects**
 - 🌱 I am learning about **machine learning** & **full-stack development**
-- 📫 How to reach me **[Early's Email](chq2549603631@gmail.com)**
+- 📫 How to reach me **[Early's Email](mailto:chq2549603631@gmail.com)**
 
 <br/>
 <br/>
